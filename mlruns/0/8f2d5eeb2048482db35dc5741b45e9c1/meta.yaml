@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nanoz-admin/Documents/projectmlflow/mlflow%20uri/mlruns/0/8f2d5eeb2048482db35dc5741b45e9c1/artifacts
+end_time: 1718192474585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f2d5eeb2048482db35dc5741b45e9c1
+run_name: gifted-horse-227
+run_uuid: 8f2d5eeb2048482db35dc5741b45e9c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718192473317
+status: 3
+tags: []
+user_id: nanoz-admin
